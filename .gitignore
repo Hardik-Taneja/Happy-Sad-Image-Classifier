@@ -3,6 +3,7 @@ happy/
 sad/
 
 # Ignore subfolders of data
+data
 data/happy/
 data/sad/
 
