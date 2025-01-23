@@ -1,1 +1,16 @@
-data
+# Ignore specific folders
+happy/
+sad/
+
+# Ignore subfolders of data
+data/happy/
+data/sad/
+
+# Ignore logs
+logs/
+
+# Ignore model checkpoints
+models/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
